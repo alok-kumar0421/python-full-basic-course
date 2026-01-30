@@ -1,0 +1,8 @@
+{
+    "name":"alok",
+    "age":20,
+    "address":{
+        "vall":"bihar",
+        "dist":"rohtas"
+    }
+}
